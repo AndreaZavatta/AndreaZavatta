@@ -15,6 +15,15 @@
  ## MY GITHUB TROPHY
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreaZavatta&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-  
+ 
+## PROJECTS IN PROGRESS
+ 
+ > Chess software development
+ 
+ > Database design and development of a chess tournament management software
+ 
+ > UDP client-server architecture for file transfer
  
 </div>
+
+
