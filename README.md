@@ -10,7 +10,7 @@
  
 ## MY GITHUB STATS
  <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 Click here for more informations</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark" height="192px"/></a>
   <br/>
