@@ -12,18 +12,18 @@
  <details> 
   <summary>💻 Click here for more informations</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark" height="192px"/></a>
+    <a href="https://github.com/AndreaZavatta"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark" height="192px"/></a>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&theme=dark&card_width=445"/></a>
+  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&theme=dark&card_width=445"/></a>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&theme=dark"/></a>
+  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&theme=dark"/></a>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea Zavatta's Top Languages" src="http://github-readme-streak-stats.herokuapp.com?user=AndreaZavatta&theme=dark&date_format=%5BY%20%5DM%20j"/></a>
+  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="http://github-readme-streak-stats.herokuapp.com?user=AndreaZavatta&theme=dark&date_format=%5BY%20%5DM%20j"/></a>
 </details>
   
  ## MY GITHUB TROPHY
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=AndreaZavatta&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AndreaZavatta&theme=onedark&row=2&column=3)]((https://github.com/AndreaZavatta))
  
 ## PROJECTS IN PROGRESS
  
