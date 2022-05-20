@@ -7,15 +7,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=4000&color=C3C3C3&background=FF000000&center=true&lines=ENGENEERING+AND+COMPUTER+SCINECE;ALWAYS+LEARNING+NEW+THINGS;HAVE+FUN!)](https://github.com/AndreaZavatta)
  
 ## MY GITHUB STATS
- 
-[![Andrea Zavatta GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark)](https://github.com/AndreaZavatta)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&theme=dark)](https://github.com/AndreaZavatta)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&theme=dark&card_width=445)](https://github.com/AndreaZavatta)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreaZavatta&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/AndreaZavatta)
- 
+ <details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark" height="192px"/></a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&theme=dark&card_width=445"/></a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&theme=dark"/></a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrea Zavatta's Top Languages" src="http://github-readme-streak-stats.herokuapp.com?user=AndreaZavatta&theme=dark&date_format=%5BY%20%5DM%20j"/></a>
+</details>
+  
  ## MY GITHUB TROPHY
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndreaZavatta&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
