@@ -24,6 +24,12 @@
  
  > UDP client-server architecture for file transfer
  
+ ## CONTACTS
+ 
+ > Email: zavattaandrea@gmail.com
+ 
+ > Linkedin profile: https://www.linkedin.com/in/andrea-zavatta-9086bb185/
+ 
 </div>
 
 
