@@ -2,6 +2,10 @@
 
 <div align="center">
  
+## WELCOME TO ANDREA ZAVATTA'S PROFILE
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=22&duration=4000&color=C3C3C3&background=FF000000&center=true&lines=ENGENEERING+AND+COMPUTER+SCINECE;ALWAYS+LEARNING+NEW+THINGS;HAVE+FUN!)](https://github.com/AndreaZavatta)
+ 
 ## MY GITHUB STATS
  
 [![Andrea Zavatta GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark)](https://github.com/AndreaZavatta)
