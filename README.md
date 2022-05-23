@@ -14,9 +14,9 @@
   <br/>
     <a href="https://github.com/AndreaZavatta"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark" height="192px"/></a>
   <br/>
-  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&theme=dark&card_width=445"/></a>
+  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&count_private=true&theme=dark&card_width=445"/></a>
   <br/>
-  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&theme=dark"/></a>
+  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&count_private=true&theme=dark"/></a>
   <br/>
   <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="http://github-readme-streak-stats.herokuapp.com?user=AndreaZavatta&theme=dark&date_format=%5BY%20%5DM%20j"/></a>
 </details>
