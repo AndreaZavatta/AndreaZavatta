@@ -14,7 +14,7 @@
   <br/>
     <a href="https://github.com/AndreaZavatta"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark" height="192px"/></a>
   <br/>
-  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&count_private=true&theme=dark&card_width=445"/></a>
+  <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&layout=compact&count_private=true&theme=dark&card_width=445&langs_count=7"/></a>
   <br/>
   <a href="https://github.com/AndreaZavatta"><img alt="Andrea Zavatta's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&count_private=true&theme=dark"/></a>
   <br/>
