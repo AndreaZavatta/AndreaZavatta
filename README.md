@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### I am an undergraduate student, I love learning new technologies
+### I am an undergraduate student, I love learning new technologies
+###### Believer in agile software development, team work and Clean Code. Always wanting to improve.
 
 ### Project
 Completed:
@@ -16,7 +17,7 @@ In Progress:
 ##### BIO
 
 - 🏢 I'm currently graduating at **Unibo**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.sql`
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: zavattaandrea@gmail.com
