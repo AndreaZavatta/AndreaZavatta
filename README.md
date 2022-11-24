@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**AndreaZavatta/AndreaZavatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am an undergraduate student, I love learning new technologies
 
-Here are some ideas to get you started:
+### Project
+Completed:
+-  ♟️ Chess game                
+-  ♟️ Chess tournament
+-  📁 UDP file transfer
+-  🤖 Catch the led Pattern
+  
+In Progress:
+-  🤖 Smart Bridge simulation 
+-  🌐 Web application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 🏢 I'm currently graduating at **Unibo**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`
+- 🌍 I'm mostly active within the **Java Community**
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: zavattaandrea@gmail.com
+- ⚡️ Fun fact: football lover - in my free time i play chess
