@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### I am an undergraduate student, I love learning new technologies
-###### Believer in agile software development, team work and Clean Code. Always wanting to improve.
+### I am an undergraduate student. 
+Believer in agile software development, open-source, team work and Clean Code.
+Always wanting to improve.
 
 ### Project
 Completed:
