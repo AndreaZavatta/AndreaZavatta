@@ -15,7 +15,7 @@ In Progress:
 -  🤖 Smart Bridge simulation 
 -  🌐 Web application
 
-##### BIO
+#### BIO
 
 - 🏢 I'm currently graduating at **Unibo**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.sql`
