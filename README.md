@@ -22,4 +22,4 @@ In Progress:
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: zavattaandrea@gmail.com
-- ⚡️ Fun fact: football lover - in my free time i play chess
+- ⚡️ Fun fact: football player - in my free time i play chess
