@@ -1,4 +1,5 @@
-### Hi there 👋 I don't know how to code
+### Hi there 👋
+### I don't know how to code, I am new here. I want to make friends even though i am the worst CSS coder and weakest Maraffone player 😭
 
 ### I am an undergraduate student. 
 Believer in agile software development, open-source, team work and Clean Code.
