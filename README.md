@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I don't know how to code
 
 ### I am an undergraduate student. 
 Believer in agile software development, open-source, team work and Clean Code.
