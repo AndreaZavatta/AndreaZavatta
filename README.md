@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I don't know how to code, I am new here. I want to make friends even though i am the worst CSS coder and weakest Maraffone player 😭
-## I copy my code from [Marco Antolini](https://github.com/MarcoAntolini) repositories because he is the best coder i have ever knew 😍
+### I copy my code from [Marco Antolini](https://github.com/MarcoAntolini) repositories because he is the best coder i have ever knew 😍
 
 ### I am an undergraduate student. 
 Believer in agile software development, open-source, team work and Clean Code.
