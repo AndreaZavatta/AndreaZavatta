@@ -4,6 +4,12 @@
 Believer in agile software development, open-source, team work and Clean Code.
 Always wanting to improve.
 
+<br />
+<div>
+    <img alt="Andrea Zavatta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark&hide_border=true" width="49%" align="left"/>
+    <img alt="Andrea Zavatta's Top Languages" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=10&hide_border=true" width="45%"/>
+</div>
+
 ### Project
 Completed:
 -  ♟️ Chess game                
