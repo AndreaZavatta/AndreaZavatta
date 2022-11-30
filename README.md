@@ -28,7 +28,10 @@ Completed:
   </p>
   
 In Progress:
--  🌐 Web application
+  <p>
+      <a href="https://github.com/giacomosirri/progettoWeb">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=giacomosirri&repo=progettoWeb&theme=dark" alt="progettoWeb"                width="30%"></a>
+  </p>
 
 ***
 
