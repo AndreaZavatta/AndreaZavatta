@@ -14,15 +14,15 @@ Love learning new programming languages.
 Completed:
   <p align="left">
       <a href="https://github.com/AndreaZavatta/OOP21-Chess">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=OOP21-Chess&theme=dark" alt="OOP21-Chess" width="19%"></a>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=OOP21-Chess&theme=dark" alt="OOP21-Chess" width="45%"></a>
       <a href="https://github.com/AndreaZavatta/ChessTournament">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=ChessTournament&theme=dark" alt="ChessTournament"                    width="19%"></a>
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=ChessTournament&theme=dark" alt="ChessTournament"                    width="45%"></a>
       <a href="https://github.com/AndreaZavatta/UDP-file-transfer">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=UDP-file-transfer&theme=dark" alt="UDP-file-transfer"              width="19%"></a>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=UDP-file-transfer&theme=dark" alt="UDP-file-transfer"              width="30%"></a>
       <a href="https://github.com/AndreaZavatta/IOT-assignment-1">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=IOT-assignment-1&theme=dark" alt="IOT-assignment-1"                width="19%"></a>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=IOT-assignment-1&theme=dark" alt="IOT-assignment-1"                width="30%"></a>
       <a href="https://github.com/AndreaZavatta/IOT-assignment-2">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=IOT-assignment-2&theme=dark" alt="IOT-assignment-2"                width="19%"></a>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=IOT-assignment-2&theme=dark" alt="IOT-assignment-2"                width="30%"></a>
   </p>
   
 In Progress:
