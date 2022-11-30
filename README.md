@@ -2,7 +2,7 @@
 
 ### I am an undergraduate student. 
 Believer in agile software development, open-source, team work and Clean Code.
-Always wanting to improve.
+Love learning new programming languages.
 
 <br />
 <div>
