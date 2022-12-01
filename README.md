@@ -26,9 +26,9 @@ Completed:
       <a href="https://github.com/AndreaZavatta/UDP-file-transfer">
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=UDP-file-transfer&theme=dark" alt="UDP-file-transfer"              width="30%"></a>
       <a href="https://github.com/AndreaZavatta/IOT-assignment-1">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=IOT-assignment-1&theme=dark" alt="IOT-assignment-1"                width="30%"></a>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=Catch-the-led-pattern&theme=dark" alt="IOT-assignment-1"                width="30%"></a>
       <a href="https://github.com/AndreaZavatta/IOT-assignment-2">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=IOT-assignment-2&theme=dark" alt="IOT-assignment-2"                width="30%"></a>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=Smart-bridge&theme=dark" alt="IOT-assignment-2"                width="30%"></a>
   </p>
   
 In Progress:
