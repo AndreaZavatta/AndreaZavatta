@@ -10,8 +10,11 @@ Love learning new programming languages.
 <a href="http://www.github.com/AndreaZavatta"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=10&hide_border=true"/></a> 
 </div>
 
+<br/>
 
 ***
+
+<br/>
 
 ### Project
 Completed:
