@@ -8,9 +8,8 @@ Love learning new programming languages.
 <div align="center">
 <a href="http://www.github.com/AndreaZavatta"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="Andrea Zavatta GitHub stats"/></a>
 <a href="http://www.github.com/AndreaZavatta"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=10&hide_border=true"/></a> 
- <a href="http://www.github.com/AndreaZavatta"><img alt="Wakatime stats" width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&layout=compact&theme=dark"/></a> 
  
-<!--START_SECTION:waka-->
+ <!--START_SECTION:waka-->
 ```text
 C++          5 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.52 %
 JavaScript   4 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
@@ -20,10 +19,16 @@ TeX          33 mins         █░░░░░░░░░░░░░░░░
 Java         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 <!--END_SECTION:waka-->
- 
 </div>
 
 <br/>
+
+***
+<br/>
+<div align="center">
+ <a href="http://www.github.com/AndreaZavatta"><img alt="Wakatime stats" width="43%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&layout=compact&theme=dark&langs_count=13"/></a>  
+ </div>
+ <br/>
 
 ***
 
