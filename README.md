@@ -10,7 +10,16 @@ Love learning new programming languages.
 <a href="http://www.github.com/AndreaZavatta"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=10&hide_border=true"/></a> 
  <a href="http://www.github.com/AndreaZavatta"><img alt="Wakatime stats" width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&layout=compact&theme=dark"/></a> 
 <!--START_SECTION:waka-->
- 
+
+```text
+C++          5 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.52 %
+JavaScript   4 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
+Python       3 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+PHP          1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+TeX          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Java         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 
