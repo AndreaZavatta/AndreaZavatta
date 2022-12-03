@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+<br />
+
 ### I am an undergraduate student. 
 Believer in agile software development, open-source, team work and Clean Code.
 Love learning new programming languages.
 
 <br />
+<br />
+
 <div align="center">
 <a href="http://www.github.com/AndreaZavatta"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="Andrea Zavatta GitHub stats"/></a>
 <a href="http://www.github.com/AndreaZavatta"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaZavatta&count_private=true&show_icons=true&layout=compact&theme=dark&langs_count=10&hide_border=true"/></a> 
