@@ -19,6 +19,7 @@ Love learning new programming languages.
  <br/>
  
  <!--START_SECTION:waka-->
+
 ```text
 C++          5 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.52 %
 JavaScript   4 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
@@ -27,6 +28,7 @@ PHP          1 hr 24 mins    ██▒░░░░░░░░░░░░░░
 TeX          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 Java         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
+
 <!--END_SECTION:waka-->
 </div>
 
