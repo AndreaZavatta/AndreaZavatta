@@ -21,12 +21,10 @@ Love learning new programming languages.
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 16 mins   ██████████████████▒░░░░░░   73.80 %
-PHP          1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-HTML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Python       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-C++          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   7 hrs 29 mins   ████████████████████▓░░░░   82.54 %
+PHP          1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+HTML         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
