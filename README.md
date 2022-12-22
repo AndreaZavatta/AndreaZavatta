@@ -21,12 +21,12 @@ Love learning new programming languages.
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript    3 hrs 53 mins   ███████████░░░░░░░░░░░░░░   44.51 %
-Markdown      1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-SCSS          1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-C             44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-CSS           42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-HTML          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JavaScript    3 hrs 53 mins   ████████████████▓░░░░░░░░   67.01 %
+Markdown      1 hr 30 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+MATLAB        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Objective-C   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+C             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
