@@ -21,12 +21,10 @@ Love learning new programming languages.
  <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 41 mins    █████████████████▒░░░░░░░   69.66 %
-SCSS         18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-CSS          15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-JavaScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-SourceMap    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+CSS          4 mins          ███████████▓░░░░░░░░░░░░░   46.32 %
+HTML         4 mins          ██████████▒░░░░░░░░░░░░░░   40.67 %
+SCSS         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
