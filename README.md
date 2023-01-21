@@ -21,9 +21,11 @@ Love learning new programming languages.
  <!--START_SECTION:waka-->
 
 ```text
-C#           3 hrs 30 mins   ██████████████░░░░░░░░░░░   55.77 %
-HTML         1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-Other        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+C#           1 hr 23 mins    ████████▒░░░░░░░░░░░░░░░░   32.93 %
+HTML         1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+SCSS         33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+PHP          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Other        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
 ```
 
 <!--END_SECTION:waka-->
