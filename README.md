@@ -36,8 +36,15 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 ***
 <br/>
+
+
 <div align="center">
+  
  <a href="http://www.github.com/AndreaZavatta"><img alt="Wakatime stats" width="43%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreaZavatta&layout=compact&theme=dark&langs_count=13"/></a>  
+ 
+  ![trophy](https://github-profile-trophy.vercel.app/?username=andreazavatta&theme=onedark&row=1)
+ 
+ 
  </div>
  <br/>
 
