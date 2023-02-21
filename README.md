@@ -4,7 +4,7 @@ Cazzo ne so, baby dick, mobydick, zavazavatta.com.
 
 <br />
 
-### I am an undergraduate student. 
+### I am an underdeveloped student. 
 Believer in agile software development, open-source, team work and Clean Code.
 Love learning new programming languages.
 
