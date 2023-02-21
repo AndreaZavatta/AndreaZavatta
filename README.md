@@ -73,6 +73,8 @@ In Progress:
   <p>
  <a href="https://github.com/szavatta/BlackJack">
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=szavatta&repo=BlackJack&theme=dark" alt="progettoWeb"                width="30%"></a>
+  <a href="https://github.com/lorenzotosi/assignment-03">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lorenzotosi&repo=assignment-03&theme=dark" alt="progettoWeb"                width="30%"></a>
   </p>
 
 <br/>
