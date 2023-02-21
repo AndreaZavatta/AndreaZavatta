@@ -2,7 +2,7 @@
 
 <br />
 
-### I am an underdeveloped student. 
+### I am an undergraduate student. 
 Believer in agile software development, open-source, team work and Clean Code.
 Love learning new programming languages.
 
