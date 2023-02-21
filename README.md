@@ -1,6 +1,4 @@
-### Hi there!!! 👋 I am a primary school student learning Python with my schoolmates :)
-
-Cazzo ne so, baby dick, mobydick, zavazavatta.com.
+### Hi there!!! 👋
 
 <br />
 
