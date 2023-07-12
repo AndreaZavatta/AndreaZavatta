@@ -59,15 +59,11 @@ Completed:
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=Catch-the-led-pattern&theme=dark" alt="IOT-assignment-1"                width="30%"></a>
       <a href="https://github.com/AndreaZavatta/IOT-assignment-2">
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndreaZavatta&repo=Smart-bridge&theme=dark" alt="IOT-assignment-2"                width="30%"></a>
-  </p>
-
-In Progress:
-  <p>
- <a href="https://github.com/szavatta/BlackJack">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=szavatta&repo=BlackJack&theme=dark" alt="progettoWeb"                width="30%"></a>
   <a href="https://github.com/lorenzotosi/assignment-03">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lorenzotosi&repo=assignment-03&theme=dark" alt="progettoWeb"                width="30%"></a>
-  </p>
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lorenzotosi&repo=assignment-03&theme=dark" alt="assignment-03"                width="30%"></a>
+  <a href="https://github.com/AndreaZavatta/Songs-Popularity-Prediction">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreazavatta&repo=Songs-Popularity-Prediction&theme=dark" alt="Songs-Popularity-Prediction"                width="30%"></a>
+
 
 <br/>
 
