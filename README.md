@@ -60,6 +60,10 @@ Completed:
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lorenzotosi&repo=assignment-03&theme=dark" alt="assignment-03"                width="30%"></a>
   <a href="https://github.com/AndreaZavatta/Songs-Popularity-Prediction">
           <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=andreazavatta&repo=Songs-Popularity-Prediction&theme=dark" alt="Songs-Popularity-Prediction"                width="30%"></a>
+        <a href="https://github.com/lorenzotosi/RunTogether">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lorenzotosi&repo=RunTogether&theme=dark" alt="RunTogether" width="30%">
+        </a>
+          
 
 
 <br/>
