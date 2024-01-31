@@ -3,6 +3,7 @@
 <br />
 
 - 🏢 I'm currently graduating at **Unibo**
+- 💻 I'm currently working at **Technogym** as **customer platform analyst & dev**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.java`, `.sql`
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
