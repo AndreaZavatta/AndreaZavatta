@@ -2,10 +2,10 @@
 
 <br />
 
-- 🏢 I'm currently graduating at **Unibo**
+- 🏢 I'm currently persuing master's degree in computer science and engineering
 - 💻 I'm currently working at **Technogym** as **Salesforce developer**
 - ⚙️ I use daily: `salesforce`, `apex`, `javascript`, `html`, `css`, `java`, `sql`
-- 🌍 I'm mostly active within the **Java Community**
+- 🌍 I'm mostly active within the **Java and Scala Community**
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: zavattaandrea@gmail.com
 - ⚡️ Fun fact: football player - I love playing chess
