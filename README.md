@@ -36,9 +36,6 @@
 <div align="center">
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andreazavatta&theme=onedark)](https://github.com/andreazavatta/github-profile-trophy)
-
-
  </div>
  <br/>
 
