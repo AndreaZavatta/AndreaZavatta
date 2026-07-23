@@ -27,11 +27,6 @@
 <!--END_SECTION:waka-->
 </div>
 
-<br/>
-
-***
-<br/>
-
 
 <div align="center">
 
