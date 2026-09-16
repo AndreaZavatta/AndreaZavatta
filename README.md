@@ -11,25 +11,9 @@
 - ⚡️ Fun fact: football player - I love playing chess
 <br />
 
-***
-
-<br/>
-
-<div align="center">
-<a href="http://www.github.com/AndreaZavatta"><img width="50%" src="https://github-stats-extended.vercel.app/api?username=AndreaZavatta&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="Andrea Zavatta GitHub stats"/></a>
- <a href="http://www.github.com/AndreaZavatta"><img alt="Wakatime stats" width="38.25%" src="https://github-stats-extended.vercel.app/api/wakatime?username=AndreaZavatta&layout=compact&theme=dark&langs_count=13"/></a>  </a> 
-
- <br/>
-
- <!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
-</div>
 
 
 <div align="center">
-
 
  </div>
  <br/>
