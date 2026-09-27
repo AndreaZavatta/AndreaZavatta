@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently persuing master's degree in computer science and engineering
 - 💻 I'm currently working at **Technogym** as **Software Engineer**
-- ⚙️ I use daily: `salesforce`, `apex`, `javascript`, `html`, `css`, `java`, `sql`
+- ⚙️ I use daily: `python`,`salesforce`, `apex`, `javascript`, `html`, `css`, `java`, `sql`
 - 🌍 I'm mostly active within the **Java and Scala Community**
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: zavattaandrea@gmail.com
