@@ -11,17 +11,6 @@
 - ⚡️ Fun fact: football player - I love playing chess
 <br />
 
-
-
-<div align="center">
-
- </div>
- <br/>
-
-***
-
-<br/>
-
  
       
           
